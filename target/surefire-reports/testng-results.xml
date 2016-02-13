@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FirstTest" duration-ms="74312" started-at="2016-02-13T21:12:33Z" finished-at="2016-02-13T21:13:47Z">
+    <groups>
+    </groups>
+    <test name="Don&#039;t know" duration-ms="74312" started-at="2016-02-13T21:12:33Z" finished-at="2016-02-13T21:13:47Z">
+      <class name="tests.SearchTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.SearchTest@224edc67]" name="setUp" is-config="true" duration-ms="30954" started-at="2016-02-14T00:12:33Z" finished-at="2016-02-14T00:13:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.SearchTest@224edc67]" name="test1" duration-ms="41065" started-at="2016-02-14T00:13:04Z" finished-at="2016-02-14T00:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:tests.SearchTest@224edc67]" name="shutDown" is-config="true" duration-ms="2279" started-at="2016-02-14T00:13:45Z" finished-at="2016-02-14T00:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- tests.SearchTest -->
+    </test> <!-- Don't know -->
+  </suite> <!-- FirstTest -->
+</testng-results>

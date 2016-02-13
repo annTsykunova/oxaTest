@@ -1,0 +1,385 @@
+2016-02-13 11:30:58 INFO  LoginTest:57 - Set timeout from 10 seconds
+2016-02-13 11:30:59 INFO  LoginTest:33 - Log step 1: Go to form for login
+2016-02-13 11:30:59 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 11:31:12 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 11:31:16 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 11:31:16 INFO  LoginTest:35 - Log step 2: Login
+2016-02-13 11:31:16 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:31:16 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 11:31:17 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 11:31:17 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 11:31:18 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 11:31:18 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 11:31:18 INFO  LoginTest:38 - Log step 4: Verify that user is logged successfully
+2016-02-13 11:31:18 INFO  HomePageForUser:25 - Find element with locator:  .//*[@id='userbar']/div[1]/a
+2016-02-13 11:31:18 INFO  HomePageForUser:32 - Element with locator:  .//*[@id='userbar']/div[1]/a was found
+2016-02-13 11:31:20 INFO  LoginTest:66 - Driver shut down
+2016-02-13 11:33:12 INFO  LoginTest:57 - Set timeout from 10 seconds
+2016-02-13 11:33:28 INFO  LoginTest:33 - Log step 1: Go to form for login
+2016-02-13 11:33:28 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 11:33:28 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 11:33:30 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 11:33:30 INFO  LoginTest:35 - Log step 2: Login
+2016-02-13 11:33:30 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:33:30 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:33:31 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:33:31 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 11:33:32 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 11:33:32 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 11:33:32 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 11:33:32 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 11:33:32 INFO  LoginTest:38 - Log step 4: Verify that user is logged successfully
+2016-02-13 11:33:32 INFO  HomePageForUser:25 - Find element with locator:  .//*[@id='userbar']/div[1]/a
+2016-02-13 11:33:33 INFO  HomePageForUser:32 - Element with locator:  .//*[@id='userbar']/div[1]/a was found
+2016-02-13 11:33:33 INFO  LoginTest:66 - Driver shut down
+2016-02-13 11:34:08 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 11:34:23 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 11:34:23 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 11:34:23 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 11:34:24 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 11:34:24 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 11:34:24 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:34:24 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:34:25 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 11:34:26 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 11:34:26 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 11:34:26 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 11:34:27 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 11:34:27 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 11:34:27 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 11:34:27 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:27 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:28 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:28 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:30 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:30 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:31 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:31 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:32 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:32 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:33 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:34 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:35 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:35 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:36 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:36 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:37 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:37 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:38 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:38 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:39 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:39 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:40 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:40 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:41 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:41 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:42 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:42 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:44 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:44 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:45 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:45 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:46 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:46 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:47 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:47 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:48 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:48 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:49 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:49 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:50 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:50 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:51 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:52 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:53 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:53 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:54 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:54 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:55 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:55 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:56 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:56 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:57 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:57 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:58 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:58 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:59 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:34:59 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:00 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:01 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:02 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:02 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:03 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:03 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:04 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:04 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:05 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:05 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:06 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:06 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:07 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:07 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:08 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:08 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:10 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:10 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:11 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:11 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:12 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:12 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:13 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:13 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:14 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:14 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:15 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:15 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:16 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:16 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:17 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:17 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:19 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:19 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:20 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:20 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:21 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:21 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:22 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:22 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:23 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:24 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:25 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:25 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:26 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:26 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:27 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:27 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:28 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:28 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:29 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:29 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:30 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:30 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:31 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:31 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:32 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:33 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:34 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:34 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:35 INFO  HomePageForUser:25 - Find element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:35 INFO  HomePageForUser:29 - Can't find an element with locator: //a[contains(@href, 'tech.http://www.onliner.by/')]
+2016-02-13 11:35:37 INFO  NewsTest:66 - Driver shut down
+2016-02-13 12:44:43 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 12:44:43 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 12:44:43 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 12:44:50 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 12:44:53 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 12:44:53 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 12:44:53 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:44:53 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 12:44:53 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 12:44:54 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 12:44:54 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 12:44:54 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 12:44:54 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 12:44:54 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 12:44:54 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 12:44:56 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 12:44:56 INFO  NewsTest:38 - Log step 4: Write in file information of news
+2016-02-13 12:45:32 INFO  NewsTest:40 - Log step 5:Verify format of date
+2016-02-13 12:47:53 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 12:47:53 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 12:47:53 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 12:47:59 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 12:48:02 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 12:48:02 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 12:48:02 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:48:02 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 12:48:03 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 12:48:03 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 12:48:03 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 12:48:03 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 12:48:03 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 12:48:03 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 12:48:04 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 12:48:04 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 12:48:04 INFO  NewsTest:38 - Log step 4: Write in file information of news
+2016-02-13 12:48:41 INFO  NewsTest:40 - Log step 5:Verify format of date
+2016-02-13 12:52:06 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 12:52:16 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 12:52:16 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 12:52:17 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 12:52:18 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 12:52:18 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 12:52:18 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:52:18 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:52:19 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:52:20 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 12:52:20 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 12:52:21 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 12:52:21 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 12:52:21 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 12:52:21 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 12:52:21 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 12:52:21 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 12:52:22 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 12:52:22 INFO  NewsTest:38 - Log step 4: Write in file information of news
+2016-02-13 12:53:48 INFO  NewsTest:40 - Log step 5:Verify format of date
+2016-02-13 12:55:07 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 12:55:15 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 12:55:15 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 12:55:15 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 12:55:16 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 12:55:16 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 12:55:16 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:55:16 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:55:17 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:55:18 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 12:55:19 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 12:55:19 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 12:55:19 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 12:55:19 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 12:55:19 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 12:55:19 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 12:55:20 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 12:55:21 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 12:55:21 INFO  NewsTest:38 - Log step 4: Write in file information of news
+2016-02-13 12:57:32 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 12:57:41 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 12:57:41 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 12:57:41 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 12:57:42 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 12:57:42 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 12:57:42 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:57:42 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:57:44 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 12:57:44 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 12:57:45 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 12:57:45 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 12:57:45 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 12:57:45 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 12:57:46 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 12:57:46 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 12:57:47 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 12:57:47 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 12:57:47 INFO  NewsTest:38 - Log step 4: Write in file information of news
+2016-02-13 12:58:30 INFO  NewsTest:40 - Log step 5:Verify format of date
+2016-02-13 13:16:00 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 13:16:02 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 13:16:02 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 13:16:28 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 13:16:29 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 13:16:29 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 13:16:29 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 13:16:29 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 13:16:30 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 13:16:31 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 13:16:32 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 13:16:32 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 13:16:33 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 13:16:33 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 13:16:33 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 13:16:33 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 13:16:33 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 13:16:34 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 13:16:34 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-13 13:18:02 INFO  NewsTest:66 - Driver shut down
+2016-02-13 15:05:06 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-13 15:05:06 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-13 15:05:06 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 15:05:25 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 15:05:36 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 15:05:36 INFO  NewsTest:34 - Log step 2: Login
+2016-02-13 15:05:36 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 15:05:36 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 15:05:38 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 15:05:38 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 15:05:39 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 15:05:39 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 15:05:39 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-13 15:05:39 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-13 15:05:39 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-13 15:05:41 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-13 15:05:41 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-13 15:07:08 INFO  SearchTest:57 - Set timeout from 10 seconds
+2016-02-13 15:07:08 INFO  SearchTest:30 - Log step 1: Go to form for login
+2016-02-13 15:07:08 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 15:07:23 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 15:07:26 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 15:07:26 INFO  SearchTest:32 - Log step 2: Login
+2016-02-13 15:07:26 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 15:07:26 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 15:07:26 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 15:07:27 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 15:07:27 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 15:07:27 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 15:07:27 INFO  SearchTest:34 - Log step 3: Go to tab notebook
+2016-02-13 15:07:27 INFO  HomePageForUser:25 - Find element with locator: .//*[@href='http://catalog.onliner.by/notebook']
+2016-02-13 15:07:27 INFO  HomePageForUser:32 - Element with locator: .//*[@href='http://catalog.onliner.by/notebook'] was found
+2016-02-13 15:07:28 INFO  HomePageForUser:38 - Click 'linkNotebook'
+2016-02-13 15:07:28 INFO  SearchTest:36 - Log step 4: Go to additional parameters
+2016-02-13 15:07:28 INFO  PageNotebook:25 - Find element with locator: .//*[@class='schema-filter-additional__trigger']/a
+2016-02-13 15:07:35 INFO  PageNotebook:32 - Element with locator: .//*[@class='schema-filter-additional__trigger']/a was found
+2016-02-13 15:07:39 INFO  PageNotebook:23 - Click 'additionalParam'
+2016-02-13 15:07:39 INFO  SearchTest:38 - Log step 5: Set parameters
+2016-02-13 15:07:39 INFO  Product:36 - Click 'screenType' and 'numberOfCores
+2016-02-13 15:07:41 INFO  SearchTest:40 - Log step 6:  Verify, that result contains specified parameters
+2016-02-13 15:07:41 INFO  Product:25 - Find element with locator: .//*[@class='schema-product__title']
+2016-02-13 15:07:43 INFO  Product:32 - Element with locator: .//*[@class='schema-product__title'] was found
+2016-02-13 15:07:43 INFO  Product:44 - Click first notebook
+2016-02-13 15:08:06 INFO  SearchTest:66 - Driver shut down
+2016-02-13 15:15:35 INFO  SearchTest:57 - Set timeout from 10 seconds
+2016-02-13 15:15:35 INFO  SearchTest:30 - Log step 1: Go to form for login
+2016-02-13 15:15:35 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-13 15:15:52 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-13 15:15:54 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-13 15:15:54 INFO  SearchTest:32 - Log step 2: Login
+2016-02-13 15:15:54 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-13 15:15:55 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-13 15:15:55 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-13 15:15:55 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-13 15:15:56 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-13 15:15:56 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-13 15:15:56 INFO  SearchTest:34 - Log step 3: Go to tab notebook
+2016-02-13 15:15:56 INFO  HomePageForUser:25 - Find element with locator: .//*[@href='http://catalog.onliner.by/notebook']
+2016-02-13 15:15:56 INFO  HomePageForUser:32 - Element with locator: .//*[@href='http://catalog.onliner.by/notebook'] was found
+2016-02-13 15:15:57 INFO  HomePageForUser:38 - Click 'linkNotebook'
+2016-02-13 15:15:57 INFO  SearchTest:36 - Log step 4: Go to additional parameters
+2016-02-13 15:15:57 INFO  PageNotebook:25 - Find element with locator: .//*[@class='schema-filter-additional__trigger']/a
+2016-02-13 15:16:04 INFO  PageNotebook:32 - Element with locator: .//*[@class='schema-filter-additional__trigger']/a was found
+2016-02-13 15:16:07 INFO  PageNotebook:23 - Click 'additionalParam'
+2016-02-13 15:16:07 INFO  SearchTest:38 - Log step 5: Set parameters
+2016-02-13 15:16:07 INFO  Product:36 - Click 'screenType' and 'numberOfCores
+2016-02-13 15:16:10 INFO  SearchTest:40 - Log step 6:  Verify, that result contains specified parameters
+2016-02-13 15:16:10 INFO  Product:25 - Find element with locator: .//*[@class='schema-product__title']
+2016-02-13 15:16:11 INFO  Product:32 - Element with locator: .//*[@class='schema-product__title'] was found
+2016-02-13 15:16:11 INFO  Product:44 - Click first notebook
+2016-02-13 15:16:20 INFO  SearchTest:66 - Driver shut down
+2016-02-14 00:13:03 INFO  SearchTest:57 - Set timeout from 10 seconds
+2016-02-14 00:13:04 INFO  SearchTest:30 - Log step 1: Go to form for login
+2016-02-14 00:13:04 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 00:13:15 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 00:13:16 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 00:13:16 INFO  SearchTest:32 - Log step 2: Login
+2016-02-14 00:13:16 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 00:13:17 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 00:13:18 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 00:13:18 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 00:13:19 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 00:13:19 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 00:13:19 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 00:13:19 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 00:13:20 INFO  SearchTest:34 - Log step 3: Go to tab notebook
+2016-02-14 00:13:20 INFO  HomePageForUser:25 - Find element with locator: .//*[@href='http://catalog.onliner.by/notebook']
+2016-02-14 00:13:20 INFO  HomePageForUser:32 - Element with locator: .//*[@href='http://catalog.onliner.by/notebook'] was found
+2016-02-14 00:13:21 INFO  HomePageForUser:38 - Click 'linkNotebook'
+2016-02-14 00:13:21 INFO  SearchTest:36 - Log step 4: Go to additional parameters
+2016-02-14 00:13:21 INFO  PageNotebook:25 - Find element with locator: .//*[@class='schema-filter-additional__trigger']/a
+2016-02-14 00:13:30 INFO  PageNotebook:32 - Element with locator: .//*[@class='schema-filter-additional__trigger']/a was found
+2016-02-14 00:13:32 INFO  PageNotebook:23 - Click 'additionalParam'
+2016-02-14 00:13:32 INFO  SearchTest:38 - Log step 5: Set parameters
+2016-02-14 00:13:32 INFO  Product:33 - Click 'screenType' and 'numberOfCores
+2016-02-14 00:13:34 INFO  SearchTest:40 - Log step 6:  Verify, that result contains specified parameters
+2016-02-14 00:13:34 INFO  Product:25 - Find element with locator: .//*[@class='schema-product__title']
+2016-02-14 00:13:35 INFO  Product:32 - Element with locator: .//*[@class='schema-product__title'] was found
+2016-02-14 00:13:36 INFO  Product:41 - Click first notebook
+2016-02-14 00:13:47 INFO  SearchTest:66 - Driver shut down
