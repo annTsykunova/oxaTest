@@ -13,6 +13,7 @@ public class PageNotebook extends BasePage {
     public PageNotebook(WebDriver driver) {
         super(driver);
     }
+
     public final String ADDITIONAL_PARAM = ".//*[@class='schema-filter-additional__trigger']/a";
     @FindBy(xpath = ADDITIONAL_PARAM)
     private WebElement additionalParam;

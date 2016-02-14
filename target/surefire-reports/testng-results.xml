@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="FirstTest" duration-ms="74312" started-at="2016-02-13T21:12:33Z" finished-at="2016-02-13T21:13:47Z">
+  <suite name="FirstTest" duration-ms="24995" started-at="2016-02-14T09:25:09Z" finished-at="2016-02-14T09:25:34Z">
     <groups>
     </groups>
-    <test name="Don&#039;t know" duration-ms="74312" started-at="2016-02-13T21:12:33Z" finished-at="2016-02-13T21:13:47Z">
-      <class name="tests.SearchTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.SearchTest@224edc67]" name="setUp" is-config="true" duration-ms="30954" started-at="2016-02-14T00:12:33Z" finished-at="2016-02-14T00:13:04Z">
+    <test name="OnlinerPageTest" duration-ms="24995" started-at="2016-02-14T09:25:09Z" finished-at="2016-02-14T09:25:34Z">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.LoginTest@59fa1d9b]" name="setUp" is-config="true" duration-ms="8615" started-at="2016-02-14T12:25:09Z" finished-at="2016-02-14T12:25:18Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:tests.SearchTest@224edc67]" name="test1" duration-ms="41065" started-at="2016-02-14T00:13:04Z" finished-at="2016-02-14T00:13:45Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:tests.LoginTest@59fa1d9b]" name="test1" duration-ms="15711" started-at="2016-02-14T12:25:18Z" finished-at="2016-02-14T12:25:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="shutDown()[pri:0, instance:tests.SearchTest@224edc67]" name="shutDown" is-config="true" duration-ms="2279" started-at="2016-02-14T00:13:45Z" finished-at="2016-02-14T00:13:47Z">
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:tests.LoginTest@59fa1d9b]" name="shutDown" is-config="true" duration-ms="651" started-at="2016-02-14T12:25:34Z" finished-at="2016-02-14T12:25:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shutDown -->
-      </class> <!-- tests.SearchTest -->
-    </test> <!-- Don't know -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- OnlinerPageTest -->
   </suite> <!-- FirstTest -->
 </testng-results>

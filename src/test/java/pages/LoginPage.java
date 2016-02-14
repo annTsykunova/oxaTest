@@ -46,14 +46,9 @@ public class LoginPage extends BasePage {
 
     public void loginToHomePage(String emailText,String passwordText){
 
-        waitForElement(EMAIL_FIELD);
-        emailField.clear();
-        emailField.sendKeys(emailText);
-        waitForElement(PASSWORD_FIELD);
-        passwordField.clear();
-        passwordField.sendKeys(passwordText);
-        waitForElement(LOGIN_BUTTON);
-        loginButton.click();
+        setEmailText(emailText );
+        setPasswordText(passwordText);
+        goToButtonLogin();
     }
 
 

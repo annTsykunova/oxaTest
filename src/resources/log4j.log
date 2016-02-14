@@ -383,3 +383,105 @@
 2016-02-14 00:13:35 INFO  Product:32 - Element with locator: .//*[@class='schema-product__title'] was found
 2016-02-14 00:13:36 INFO  Product:41 - Click first notebook
 2016-02-14 00:13:47 INFO  SearchTest:66 - Driver shut down
+2016-02-14 11:23:01 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-14 11:23:02 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-14 11:23:02 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 11:23:13 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 11:23:14 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 11:23:14 INFO  NewsTest:34 - Log step 2: Login
+2016-02-14 11:23:14 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:23:14 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:23:15 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:23:16 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 11:23:16 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 11:23:17 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 11:23:17 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 11:23:17 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 11:23:17 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-14 11:23:17 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-14 11:23:18 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-14 11:23:19 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-14 11:23:19 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-14 11:24:05 INFO  NewsTest:66 - Driver shut down
+2016-02-14 11:41:55 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-14 11:42:05 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-14 11:42:05 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 11:42:06 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 11:42:07 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 11:42:07 INFO  NewsTest:34 - Log step 2: Login
+2016-02-14 11:42:07 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:42:07 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:42:08 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:42:08 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 11:42:09 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 11:42:09 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 11:42:09 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 11:42:09 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 11:42:10 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-14 11:42:10 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-14 11:42:10 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-14 11:42:11 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-14 11:42:11 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-14 11:42:54 INFO  NewsTest:66 - Driver shut down
+2016-02-14 11:47:14 INFO  NewsTest:57 - Set timeout from 10 seconds
+2016-02-14 11:47:14 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-14 11:47:14 INFO  OnlinerHomePage:25 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 11:47:24 INFO  OnlinerHomePage:32 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 11:47:25 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 11:47:25 INFO  NewsTest:34 - Log step 2: Login
+2016-02-14 11:47:25 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:47:25 INFO  LoginPage:29 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:47:26 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 11:47:26 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 11:47:27 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 11:47:27 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 11:47:27 INFO  LoginPage:25 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 11:47:27 INFO  LoginPage:32 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 11:47:28 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-14 11:47:28 INFO  HomePageForUser:25 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-14 11:47:28 INFO  HomePageForUser:32 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-14 11:47:29 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-14 11:47:29 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-14 11:48:12 INFO  NewsTest:66 - Driver shut down
+2016-02-14 12:16:02 INFO  NewsTest:56 - Set timeout from 10 seconds
+2016-02-14 12:16:03 INFO  NewsTest:32 - Log step 1: Go to form for login
+2016-02-14 12:16:03 INFO  OnlinerHomePage:23 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 12:16:14 INFO  OnlinerHomePage:30 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 12:16:17 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 12:16:17 INFO  NewsTest:34 - Log step 2: Login
+2016-02-14 12:16:17 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 12:16:17 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 12:16:17 INFO  LoginPage:32 - set 'emailField'
+2016-02-14 12:16:18 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 12:16:18 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 12:16:18 INFO  LoginPage:38 - set 'passwordField'
+2016-02-14 12:16:18 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 12:16:18 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 12:16:18 INFO  LoginPage:44 - Click 'loginButton'
+2016-02-14 12:16:18 INFO  NewsTest:36 - Log step 3:Go to technologies tab
+2016-02-14 12:16:18 INFO  HomePageForUser:23 - Find element with locator: (.//*[@href = 'http://tech.onliner.by'])[2]
+2016-02-14 12:16:19 INFO  HomePageForUser:30 - Element with locator: (.//*[@href = 'http://tech.onliner.by'])[2] was found
+2016-02-14 12:16:20 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-14 12:16:20 INFO  NewsTest:38 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-14 12:17:02 INFO  NewsTest:65 - Driver shut down
+2016-02-14 12:25:18 INFO  LoginTest:56 - Set timeout from 10 seconds
+2016-02-14 12:25:18 INFO  LoginTest:33 - Log step 1: Go to form for login
+2016-02-14 12:25:18 INFO  OnlinerHomePage:23 - Find element with locator: .//*[@id='userbar']/div[2]/div[1]
+2016-02-14 12:25:29 INFO  OnlinerHomePage:30 - Element with locator: .//*[@id='userbar']/div[2]/div[1] was found
+2016-02-14 12:25:30 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-14 12:25:30 INFO  LoginTest:35 - Log step 2: Login
+2016-02-14 12:25:30 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 12:25:30 INFO  LoginPage:27 - Can't find an element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 12:25:31 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input
+2016-02-14 12:25:32 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input was found
+2016-02-14 12:25:32 INFO  LoginPage:32 - set 'emailField'
+2016-02-14 12:25:32 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input
+2016-02-14 12:25:32 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input was found
+2016-02-14 12:25:32 INFO  LoginPage:38 - set 'passwordField'
+2016-02-14 12:25:33 INFO  LoginPage:23 - Find element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button
+2016-02-14 12:25:33 INFO  LoginPage:30 - Element with locator: .//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button was found
+2016-02-14 12:25:33 INFO  LoginPage:44 - Click 'loginButton'
+2016-02-14 12:25:33 INFO  LoginTest:37 - Log step 4: Verify that user is logged successfully
+2016-02-14 12:25:33 INFO  HomePageForUser:23 - Find element with locator:  .//*[@id='userbar']/div[1]/a
+2016-02-14 12:25:34 INFO  HomePageForUser:30 - Element with locator:  .//*[@id='userbar']/div[1]/a was found
+2016-02-14 12:25:34 INFO  LoginTest:65 - Driver shut down

@@ -34,9 +34,8 @@ public class LoginTest extends BaseTest {
         onlinerHomePage.goToButtonEnter();
         log.info("Log step 2: Login");
         loginPage.loginToHomePage(login, pass);
-
         log.info("Log step 4: Verify that user is logged successfully");
-        Assert.assertTrue(homePageForUser.isElementPresent(homePageForUser.BUTTON_OUT));
+        Assert.assertTrue(homePageForUser.isElementPresent(homePageForUser.BUTTON_OUT),"");
 
     }
 }

@@ -5,7 +5,6 @@ pages\Product.class
 pages\LoginPage.class
 pages\OnlinerHomePage.class
 tests\NewsTest.class
-base\Example.class
 pages\PageNotebook.class
 pages\PageTechnologies.class
 pages\HomePageForUser.class

@@ -18,8 +18,6 @@ public class BasePage {
         this.driver = driver;
     }
 
-    protected final String BASE_URL = "http://www.onliner.by/";
-
     public boolean isElementPresent(String by) {
         try {
             log.info("Find element with locator: " + by);

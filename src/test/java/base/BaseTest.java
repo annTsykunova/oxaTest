@@ -36,7 +36,6 @@ public abstract class BaseTest {
     @Parameters("browser")
     @BeforeMethod
     public void setUp(String browser) {
-        // driver = new FirefoxDriver();
         if (browser.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
         } else if (browser.equalsIgnoreCase("chrome")) {
