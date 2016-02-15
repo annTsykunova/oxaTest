@@ -1685,3 +1685,23 @@
 2016-02-15 20:24:35 INFO  LoginPage:44 - Click 'loginButton'
 2016-02-15 20:24:35 INFO  LoginTest:37 - Log step 4: Verify that user is logged successfully
 2016-02-15 20:24:37 INFO  LoginTest:57 - Driver shut down
+2016-02-15 21:32:59 INFO  LoginTest:48 - Set timeout from 10 seconds
+2016-02-15 21:32:59 INFO  LoginTest:33 - Log step 1: Go to form for login
+2016-02-15 21:33:14 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-15 21:33:14 INFO  LoginTest:35 - Log step 2: Login
+2016-02-15 21:33:15 INFO  LoginPage:32 - set 'emailField'
+2016-02-15 21:33:15 INFO  LoginPage:38 - set 'passwordField'
+2016-02-15 21:33:15 INFO  LoginPage:44 - Click 'loginButton'
+2016-02-15 21:33:15 INFO  LoginTest:37 - Log step 4: Verify that user is logged successfully
+2016-02-15 21:33:17 INFO  LoginTest:57 - Driver shut down
+2016-02-15 21:49:16 INFO  NewsTest:48 - Set timeout from 10 seconds
+2016-02-15 21:49:16 INFO  NewsTest:31 - Log step 1: Go to form for login
+2016-02-15 21:49:31 INFO  OnlinerHomePage:24 - Click 'enterButton'
+2016-02-15 21:49:31 INFO  NewsTest:33 - Log step 2: Login
+2016-02-15 21:49:31 INFO  LoginPage:32 - set 'emailField'
+2016-02-15 21:49:32 INFO  LoginPage:38 - set 'passwordField'
+2016-02-15 21:49:32 INFO  LoginPage:44 - Click 'loginButton'
+2016-02-15 21:49:32 INFO  NewsTest:35 - Log step 3:Go to technologies tab
+2016-02-15 21:49:34 INFO  HomePageForUser:32 - Click 'tabTech'
+2016-02-15 21:49:34 INFO  NewsTest:37 - Log step 4: Write in file information of news and Verify format of date 
+2016-02-15 21:50:10 INFO  NewsTest:57 - Driver shut down

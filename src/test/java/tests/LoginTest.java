@@ -1,6 +1,5 @@
 package tests;
 
-import base.BasePage;
 import base.BaseTest;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -9,8 +8,6 @@ import pages.HomePageForUser;
 import pages.LoginPage;
 import pages.OnlinerHomePage;
 
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertTrue;
 
 /**
  * Created by Fantasy on 11.02.2016.

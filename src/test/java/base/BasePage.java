@@ -42,23 +42,4 @@ public class BasePage {
             }
         }
     }
-
-
-    public void alertHandler() {
-        if (isAlertDisplayed()) {
-            Alert alert = driver.switchTo().alert();
-
-            log.warn("Alert present! " + alert.getText());
-            alert.accept();
-        }
-    }
-
-    private boolean isAlertDisplayed() {
-        try {
-            driver.switchTo().alert();
-            return true;
-        } catch (NoAlertPresentException Ex) {
-            return false;
-        }
-    }
 }

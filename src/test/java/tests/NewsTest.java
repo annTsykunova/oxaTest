@@ -9,7 +9,6 @@ import pages.LoginPage;
 import pages.OnlinerHomePage;
 import pages.PageTechnologies;
 
-import static junit.framework.Assert.assertTrue;
 
 /**
  * Created by Fantasy on 11.02.2016.
