@@ -38,14 +38,6 @@ public abstract class BaseTest {
     public void setUp(String browser) {
         if (browser.equalsIgnoreCase("firefox")) {
             driver = new FirefoxDriver();
-        } else if (browser.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
-            driver = new ChromeDriver();
-        } else if (browser.equalsIgnoreCase("ie")) {
-            File file = new File("C:\\IEDriverServer.exe");
-            System.setProperty("webdriver.ie.driver", file.getAbsolutePath());
-            DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
-            driver = new InternetExplorerDriver(capabilities);
         }
         else {
             throw new IllegalArgumentException("The Browser Type is Undefined");

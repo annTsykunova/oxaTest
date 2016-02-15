@@ -38,6 +38,7 @@ public class NewsTest extends BaseTest {
             log.info("Log step 4: Write in file information of news and Verify format of date ");
             Assert.assertTrue(pageTechnologies.getInformationOfNews(),"format of date is wrong");
 
+
     }
 }
 

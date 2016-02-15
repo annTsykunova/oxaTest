@@ -3,6 +3,7 @@ package tests;
 import base.BaseTest;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pages.*;
 
@@ -24,9 +25,18 @@ public class SearchTest extends BaseTest {
         pageNotebook = PageFactory.initElements(driver, PageNotebook.class);
         product = PageFactory.initElements(driver, Product.class);
     }
+    @DataProvider(name = "verifyResult")
+    public Object[][] verifyResult() {
 
-    @Test()
-    public void test1(){
+        return new Object[][] {
+                { "Поверхность экрана", "матовый",true },
+                { "Поверхность экрана", "4",false }
+
+        };
+    }
+
+    @Test(dataProvider = "verifyResult")
+    public void test1(String p1,String v1,boolean flag){
         log.info("Log step 1: Go to form for login");
         onlinerHomePage.goToButtonEnter();
         log.info("Log step 2: Login");
@@ -37,9 +47,9 @@ public class SearchTest extends BaseTest {
         pageNotebook.goToAdditionalParam();
         log.info("Log step 5: Set parameters");
         product.setParameters();
-        log.info("Log step 6:  Verify, that result contains specified parameters");
+        log.info("Log step 6:  Verify, that result contains specified parameter");
         product.getNotebook();
-        Assert.assertTrue(product.checkParameters());
+        Assert.assertEquals(product.checkFirstParameter(p1,v1),flag,"result don't contain specified parameter");
 
     }
 }

@@ -6,34 +6,29 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import java.util.List;
+
 public class Product extends BasePage {
 
     public Product(WebDriver driver) {
         super(driver);
     }
 
-    private final String param1="Экран";
-    private final String param2="Количество ядер";
-    private final String value1="матовый";
-    private final String value2="4";
-
     public final String SCREEN_TYPE = ".//*[@value='matt']/../span";
     @FindBy(xpath = SCREEN_TYPE)
     private WebElement screenType;
-
-    public final String NUMBER_OF_CORES = "(.//*[@name = 'filter-number-range__cpu_corenb'])[2]/../span";
-    @FindBy(xpath = NUMBER_OF_CORES )
-    private WebElement numberOfCores;
 
     public final String NOTEBOOK = ".//*[@class='schema-product__title']";
     @FindBy(xpath = NOTEBOOK )
     private WebElement noteBook;
 
+    public final String ELEMENT_OF_TABLE = ".//*[@class='product-specs__table']/tbody[5]/tr[5]/td";
+    @FindBy(xpath = ELEMENT_OF_TABLE )
+    private List<WebElement> elementOfTable;
+
     public void setParameters(){
         log.info("Click 'screenType' and 'numberOfCores");
         screenType.click();
-        numberOfCores.click();
-
     }
 
     public void getNotebook(){
@@ -42,22 +37,18 @@ public class Product extends BasePage {
         noteBook.click();
     }
 
-    public boolean checkParameters(){
+    public boolean checkFirstParameter(String param1,String value1){
 
-        WebElement elementOfScreen = driver.findElement(By.xpath(".//*[@class='product-specs__table']/tbody[5]/tr[5]/td[2]/span"));
-        WebElement elementOfCores = driver.findElement(By.xpath(".//*[@class='product-specs__table']/tbody[2]/tr[5]/td[2]/span"));
+        boolean flag;
 
-        if(elementOfScreen.getText().equals(value1) && elementOfCores.getText().equals(value2)){
-            return true;
+        if(elementOfTable.get(0).getText().equals(param1) && elementOfTable.get(1).getText().equals(value1)){
+            flag = true;
         }
         else {
-            return false;
+            flag = false;
         }
-
-
+        return flag;
     }
-
-
 
 
 }

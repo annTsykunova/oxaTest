@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite verbose="0" name="Failed suite [FirstTest]" parallel="none">
-  <parameter name="browser" value="firefox"/>
-  <test name="Don&#039;t know(failed)" parallel="none">
-    <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="chrome"/>
+  <test name="OnlinerPageTest(failed)" parallel="none">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="tests.SearchTest">
+      <class name="tests.LoginTest">
         <methods>
           <include name="setUp"/>
           <include name="test1"/>
-          <include name="shutDown"/>
         </methods>
-      </class> <!-- tests.SearchTest -->
+      </class> <!-- tests.LoginTest -->
     </classes>
-  </test> <!-- Don't know(failed) -->
+  </test> <!-- OnlinerPageTest(failed) -->
 </suite> <!-- Failed suite [FirstTest] -->

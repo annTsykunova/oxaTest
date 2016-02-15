@@ -19,24 +19,14 @@ public class BasePage {
     }
 
     public boolean isElementPresent(String by) {
-        try {
-            log.info("Find element with locator: " + by);
+
             driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
             List<WebElement> list = driver.findElements(By.xpath(by));
             if (list.size() == 0) {
-                log.info("Can't find an element with locator: " + by);
                 return false;
             } else {
-                log.info("Element with locator: " + by + " was found");
                 return true;
             }
-        }catch(UnhandledAlertException e){
-            alertHandler();
-            return isElementPresent(by);
-        }
-        finally {
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        }
     }
 
     public void waitForElement(String xpath) {
