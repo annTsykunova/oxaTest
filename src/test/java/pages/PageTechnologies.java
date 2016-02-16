@@ -12,9 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by Fantasy on 12.02.2016.
- */
+
 public class PageTechnologies extends BasePage {
 
     public final String DATE_OF_NEWS = ".//*[@class='b-inner-pages-footer-1']/span[2]/time";
@@ -41,6 +39,18 @@ public class PageTechnologies extends BasePage {
                         Charset.forName("UTF-8")
                 )
         );
+    }
+
+    private void writeInfoInFile(String name, String date) throws ParseException,IOException{
+
+        String dateFormat = "yyyy-MM-dd'T'HH:mm:ss'+03:00'";
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(dateFormat);
+        simpleDateFormat.setLenient(false);
+        Date  date1 = simpleDateFormat.parse(date);
+        fileWriter.append("Name: ").append(name).append("\n");
+        fileWriter.append("Date: " ).append(date1.toString()).append( "\n\n");
+
+
     }
 
     public boolean getInformationOfNews()  {
@@ -78,16 +88,5 @@ public class PageTechnologies extends BasePage {
 
     }
 
-    private void writeInfoInFile(String name, String date) throws ParseException,IOException{
-
-        String dateFormat = "yyyy-MM-dd'T'HH:mm:ss'+03:00'";
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(dateFormat);
-        simpleDateFormat.setLenient(false);
-        Date  date1 = simpleDateFormat.parse(date);
-            fileWriter.append("Name: ").append(name).append("\n");
-            fileWriter.append("Date: " ).append(date1.toString()).append( "\n\n");
-
-
-    }
 
 }

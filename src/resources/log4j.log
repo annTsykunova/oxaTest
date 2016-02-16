@@ -1705,3 +1705,12 @@
 2016-02-15 21:49:34 INFO  HomePageForUser:32 - Click 'tabTech'
 2016-02-15 21:49:34 INFO  NewsTest:37 - Log step 4: Write in file information of news and Verify format of date 
 2016-02-15 21:50:10 INFO  NewsTest:57 - Driver shut down
+2016-02-16 09:54:15 INFO  LoginTest:41 - Set timeout from 10 seconds
+2016-02-16 09:54:27 INFO  LoginTest:27 - Log step 1: Go to form for login
+2016-02-16 09:54:28 INFO  OnlinerHomePage:21 - Click 'enterButton'
+2016-02-16 09:54:28 INFO  LoginTest:29 - Log step 2: Login
+2016-02-16 09:54:30 INFO  LoginPage:30 - set 'emailField'
+2016-02-16 09:54:30 INFO  LoginPage:36 - set 'passwordField'
+2016-02-16 09:54:30 INFO  LoginPage:42 - Click 'loginButton'
+2016-02-16 09:54:30 INFO  LoginTest:31 - Log step 4: Verify that user is logged successfully
+2016-02-16 09:54:32 INFO  LoginTest:50 - Driver shut down

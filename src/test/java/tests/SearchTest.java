@@ -9,9 +9,7 @@ import pages.*;
 
 import static junit.framework.Assert.assertTrue;
 
-/**
- * Created by Fantasy on 12.02.2016.
- */
+
 public class SearchTest extends BaseTest {
 
     private final String login = "fantasy95";

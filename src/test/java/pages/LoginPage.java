@@ -5,24 +5,22 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by Fantasy on 11.02.2016.
- */
+
 public class LoginPage extends BasePage {
 
     public LoginPage(WebDriver driver) {
         super(driver);
     }
 
-    final String EMAIL_FIELD = ".//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[1]/input";
+    final String EMAIL_FIELD = ".//input[@class='auth-box__input' and @type='text']";
     @FindBy(xpath = EMAIL_FIELD)
     private WebElement emailField;
 
-    final String PASSWORD_FIELD = ".//*[@id='auth-container__forms']/div/div[2]/form/div[1]/div[2]/input";
+    final String PASSWORD_FIELD = ".//input[@class='auth-box__input' and @type='password']";
     @FindBy(xpath = PASSWORD_FIELD)
     private WebElement passwordField;
 
-    final String LOGIN_BUTTON = ".//*[@id='auth-container__forms']/div/div[2]/form/div[4]/div/button";
+    final String LOGIN_BUTTON = ".//div[@class='auth-box__line auth-box__line--final']/button";
     @FindBy(xpath = LOGIN_BUTTON)
     private WebElement loginButton;
 

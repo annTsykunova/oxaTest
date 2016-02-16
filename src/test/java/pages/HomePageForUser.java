@@ -5,9 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by Fantasy on 11.02.2016.
- */
+
 public class HomePageForUser extends BasePage {
     public HomePageForUser(WebDriver driver) {
         super(driver);

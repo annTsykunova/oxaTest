@@ -2,21 +2,14 @@ package base;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import pages.*;
-
-import java.io.File;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Fantasy on 11.02.2016.
- */
+
 public abstract class BaseTest {
 
     protected WebDriver driver;

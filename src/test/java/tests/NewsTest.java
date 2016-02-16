@@ -10,9 +10,6 @@ import pages.OnlinerHomePage;
 import pages.PageTechnologies;
 
 
-/**
- * Created by Fantasy on 11.02.2016.
- */
 public class NewsTest extends BaseTest {
 
     private final String login = "fantasy95";

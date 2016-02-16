@@ -6,9 +6,6 @@ import org.openqa.selenium.*;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Fantasy on 11.02.2016.
- */
 public class BasePage {
 
     protected WebDriver driver;
